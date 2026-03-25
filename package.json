@@ -3,11 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4y7gv8hhkt-ship-it/Plan-june-qa.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/4y7gv8hhkt-ship-it/Plan-june-qa/issues"
+  },
+  "homepage": "https://github.com/4y7gv8hhkt-ship-it/Plan-june-qa#readme",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.5.0"
